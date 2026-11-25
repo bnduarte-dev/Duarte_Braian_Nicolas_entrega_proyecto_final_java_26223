@@ -1,0 +1,20 @@
+# Archivos generados por Maven
+target/
+
+# Archivos de compilacion Java
+*.class
+
+# Logs
+*.log
+
+# Configuracion de IDEs (descomentar si no se desea versionar VS Code)
+.idea/
+# .vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+/target/
+*.class
+*.log
