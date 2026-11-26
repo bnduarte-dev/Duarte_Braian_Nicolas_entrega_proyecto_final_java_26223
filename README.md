@@ -130,6 +130,5 @@ Los registros se almacenan en la base de datos y no solamente en memoria.
 
 **Video de funcionamiento y pruebas de la API:**
 
-[Ver video de demostración en YouTube](PEGAR_AQUI_EL_ENLACE_DE_YOUTUBE)
+[Ver video de demostración en YouTube](https://youtu.be/fQFWEupU_cM)
 
-> Reemplazar el texto `PEGAR_AQUI_EL_ENLACE_DE_YOUTUBE` por el enlace definitivo del video publicado en YouTube (visibilidad No listado).
